@@ -20,13 +20,21 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
+<<<<<<< HEAD
 SECRET_KEY = '!dqpax#7=x_9&=d^-f^_c)l*vqli!la%5ffan-y(u#6@kt3@*b'
+=======
+SECRET_KEY = 'rk_iz989p@30o-6)1@voq*w(leegb+jd(#n85yy96bgs17wy&o'
+>>>>>>> a8a45b5351b6bef9480f13403f1c60f33bf79939
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a8a45b5351b6bef9480f13403f1c60f33bf79939
 # Application definition
 
 INSTALLED_APPS = [
@@ -121,4 +129,8 @@ STATIC_URL = '/static/'
 
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, "static"),
+<<<<<<< HEAD
 )
+=======
+)
+>>>>>>> a8a45b5351b6bef9480f13403f1c60f33bf79939

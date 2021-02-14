@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 appdirs==1.4.3
 CacheControl==0.12.6
 certifi==2019.11.28
@@ -24,3 +25,9 @@ six==1.14.0
 sqlparse==0.4.1
 urllib3==1.25.8
 webencodings==0.5.1
+=======
+Django==2.2.18
+pkg-resources==0.0.0
+pytz==2021.1
+sqlparse==0.4.1
+>>>>>>> a8a45b5351b6bef9480f13403f1c60f33bf79939
